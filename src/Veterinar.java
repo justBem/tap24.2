@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Veterinar {
+public class Veterinar  {
+    public static  void treatAnimal(Animal animal){
+        System.out.println(animal);
+    }
 }
